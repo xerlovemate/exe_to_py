@@ -17,6 +17,6 @@ X:\>python pyinstxtractor.py <filename>
 
 Загружаем .pyc файл на сайт
 
-![Screenshot 1](/screenshots/screen_1.png?raw=true)  
+![Screenshot 1](/screenshots/screen_1.png)  
 
 На выходе получаем исходный код программы :)
